@@ -9,9 +9,9 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Applications", "Application
 EndProject
 Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Test", "Test", "{E06AAF4A-4541-44D7-9B66-F477E85D77BB}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chaps.Tests", "..\Chaps.Tests\Chaps.Tests.csproj", "{79352662-29C6-4D9E-8321-786B497E3FE6}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chaps.Tests", "Chaps.Tests\Chaps.Tests.csproj", "{79352662-29C6-4D9E-8321-786B497E3FE6}"
 EndProject
-Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chaps", "..\Chaps\Chaps.csproj", "{2DDDCFF5-BA24-4890-A2D5-336FEF99FB28}"
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Chaps", "Chaps\Chaps.csproj", "{2DDDCFF5-BA24-4890-A2D5-336FEF99FB28}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
